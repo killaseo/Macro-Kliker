@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MacroClicker</string>
+    <string name="accessibility_service_description">
+        MacroClicker potrzebuje dostępu do usługi ułatwień dostępu,
+        aby móc wykrywać elementy UI, wykonywać kliknięcia, scrollowanie
+        i kopiowanie tekstu w ramach zdefiniowanych makr.
+    </string>
+    <string name="service_active">Serwis aktywny ✓</string>
+    <string name="service_inactive">Serwis nieaktywny — włącz w Ustawienia → Dostępność</string>
+    <string name="macro_started">Makro uruchomione</string>
+    <string name="macro_stopped">Makro zatrzymane</string>
+</resources>
